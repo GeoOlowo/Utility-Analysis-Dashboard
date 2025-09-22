@@ -45,6 +45,9 @@ Interactive filters (**industry, utility type**) allow drilling down by sector a
 
 ---
 
+## 📊 Screenshot of dashboard
+["utility image\utility_I.png"](https://github.com/GeoOlowo/Utility-Analysis-Dashboard/blob/main/utility/utility%20image/utility_I.png)
+---
 ## ⚙️ Tools Used
 - **Excel / Power BI** for data cleaning, modeling.  
 - **Excel** for visualization.  
